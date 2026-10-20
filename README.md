@@ -8,7 +8,7 @@ This project focuses on creating a clean and user-friendly authentication interf
 
 ## 🚀 Live Demo
 
-> Coming Soon...
+🔗 **Live Website:** https://studynotion-auth-ui.vercel.app/
 
 ---
 
